@@ -9,3 +9,11 @@ style:
     body: '"LXGW WenKai Screen", system-ui, "Microsoft Yahei", "Segoe UI", -apple-system, Roboto, Ubuntu, "Helvetica Neue", Arial, "WenQuanYi Micro Hei", sans-serif'
     code: 'Menlo, Monaco, Consolas, system-ui, "Courier New", monospace, sans-serif'
     codeblock: 'Menlo, Monaco, Consolas, system-ui, "Courier New", monospace, sans-serif'
+
+sidebar:
+  menu:
+    post: '[btn.blog](/)'
+    wiki: '[btn.wiki](/wiki/)'
+    notes: '[笔记](/notes/)'
+    more: '[更多](/more/)'
+
