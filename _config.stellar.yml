@@ -17,3 +17,19 @@ sidebar:
     notes: '[笔记](/notes/)'
     more: '[更多](/more/)'
 
+# 默认打开
+lazyload:
+  enable: true # [hexo clean && hexo s] is required after changing this value.
+  js: https://gcore.jsdelivr.net/npm/vanilla-lazyload@17.3.1/dist/lazyload.min.js
+  transition: blur # blur, fade
+
+# 默认打开
+loading:
+  loading: 正在加载
+  error: 加载失败，请稍后重试。
+
+article:
+# npm i hexo-related-popular-posts
+related_posts:
+  enable: true
+  title: 相关的其他文章
