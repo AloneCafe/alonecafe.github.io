@@ -108,6 +108,12 @@ theme: stellar
 plugins:
 - hexo-generator-cname
 
+inject:
+  head:
+    #- <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap" rel="stylesheet">
+    - <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-screen-webfont@1.1.0/style.css">
+  script:
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
