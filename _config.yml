@@ -105,6 +105,9 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: stellar
 
+plugins:
+- hexo-generator-cname
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
