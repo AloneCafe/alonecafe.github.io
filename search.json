@@ -1,0 +1,1 @@
+[{"title":"Hello World","path":"/2023/04/24/hello-world/","content":"12345678#include &lt;iostream&gt;int main(int argc, char *argv[]) &#123; std::cout &lt;&lt; &quot;Hello, world!&quot; &lt;&lt; std::endl; return 0;&#125;"}]
