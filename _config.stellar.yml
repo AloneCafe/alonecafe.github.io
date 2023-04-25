@@ -14,7 +14,7 @@ sidebar:
   menu:
     post: '[btn.blog](/)'
     wiki: '[btn.wiki](/wiki/)'
-    notes: '[笔记](/notes/)'
+    notes: '[关于](/about/)'
     more: '[更多](/more/)'
   widgets:
     #### 自动生成的页面 ####
