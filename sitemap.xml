@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://alone.cafe/2023/04/24/hello-world/</loc>
+    <loc>https://alone.cafe/2023/04/25/hello-world/</loc>
     
-    <lastmod>2023-04-24</lastmod>
+    <lastmod>2023-04-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://alone.cafe/about/index.html</loc>
+    
+    <lastmod>2023-04-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +22,7 @@
 
   <url>
     <loc>https://alone.cafe/</loc>
-    <lastmod>2023-04-24</lastmod>
+    <lastmod>2023-04-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -21,14 +30,14 @@
   
   <url>
     <loc>https://alone.cafe/tags/%E6%9D%82%E6%96%87/</loc>
-    <lastmod>2023-04-24</lastmod>
+    <lastmod>2023-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://alone.cafe/tags/%E4%BA%8B%E4%BB%B6/</loc>
-    <lastmod>2023-04-24</lastmod>
+    <lastmod>2023-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
